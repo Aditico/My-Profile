@@ -71,7 +71,8 @@ h1{
 }
 #projects{
     width:100px;
-    height:50px;
+    height:150px;
     background-color:burlywood;
     margin:5px;
+    font-size:25px;
 }
